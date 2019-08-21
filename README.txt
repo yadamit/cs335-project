@@ -34,6 +34,7 @@ Requirements :
 	spim
 
 To compile and run
+	$ cd assign4
 	$ make
 	$ ./bin/compile <file.go>
 
